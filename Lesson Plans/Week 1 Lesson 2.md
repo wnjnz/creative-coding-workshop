@@ -3,7 +3,7 @@
 
 ## October 25th - 6pm - 7:30pm 
 ### review what we did last time, explain instead of using scratch we will use javascript. 10 minutes
-- direct control over specifically how something looks on a website so that we can share 
+- direct creative control over specifically how something looks on a website so that we can share 
 ## drawing in p5js + coding behavior for any key pressed with makeymay minutes 1 hour 
 ## basic processing with jsbin: template 
 -  jsbin template: [JS Bin - Collaborative JavaScript Debugging](http://jsbin.com/fugujo/edit?js,output)
@@ -31,7 +31,6 @@
 ## Debrief - 10 minutes
 - programming specific behavior. 
 - what is a function? examples of functions
-
 - how do functions behave? how do we change how functions behave?
 - why do we need coordinate system? do you think all coordinate systems are the same? where else have  you seen coordinate systems? 
 - real life connections - maps, old drawing machines.
@@ -39,8 +38,11 @@
 ## concepts covered/deliverables/goals
 - functions are set of instructions that are saved by name
 - be comfortable in jsbin environment
+	- saving
+	- typing
+	- context switch between javascript and the output
+- html/css/javascript
 - coordinate system
-- pixels and screens
 - code happens in order 
 
 ## materials + equipment
@@ -51,11 +53,9 @@
 - [ ] one laptop/student
 
 ## set up:
-
+- make sure to laptops 
 
 ## TODO 
-- [ ] make handouts for shape syntax 
 - [ ] design notebook experience for pseudo coding  - problem solving - what do we need to draw, and are we drawing it with code. 
 	- [ ] shape syntax itself
-	- [ ] premade shapes
 - [ ] design forking experience for initial setup 
